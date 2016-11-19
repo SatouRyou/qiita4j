@@ -47,7 +47,7 @@ import com.zaneli.qiita.model.response.QiitaResponse;
 
 public class QiitaExecutor {
 
-    private static final String ENDPOINT_URL = "https://qiita.com/api/v1";
+    private static final String ENDPOINT_URL = "https://qiita.com/api/v2";
 
     private String token;
 
